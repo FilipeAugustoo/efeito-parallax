@@ -1,0 +1,90 @@
+.play {
+    background-image: url('play.jpg');
+    min-height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section {
+    text-align: center;
+    background-color: purple;
+    color: white;
+    height: 125px;
+}
+
+.section0 h1{
+    font-size: 100px;
+    margin-top: -4800px;
+}
+
+.csgo {
+    background-image: url('csgo.jpg');
+    min-height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.section1 h1 {
+    font-size: 100px;
+    margin-top: 600px;
+}
+
+.valorant {
+    background-image: url('valorant.jpg');
+    min-height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.section2 h1 {
+    font-size: 100px;
+    margin-top: 700px;
+}
+
+.minecraft {
+    background-image: url('minecraft.jpg');
+    min-height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.section3 h1 {
+    font-size: 100px;
+    margin-top: 700px;
+}
+
+.overcooked2 {
+    background-image: url('overcooked2.png');
+    min-height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.section4 h1 {
+    font-size: 100px;
+    margin-top: 600px;
+}
+
+.sonic {
+    background-image: url('sonic.jpg');
+    min-height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.section5 h1 {
+    font-size: 100px;
+    margin-top: 750px;
+}
